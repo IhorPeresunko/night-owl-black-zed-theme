@@ -1,0 +1,6 @@
+name = "Night Owl Black Theme"
+version = "0.1.0"
+authors = ["Ihor"]
+description = "A Zed port of the Night Owl Black VS Code theme."
+id = "night-owl-black"
+schema_version = 1
