@@ -1,6 +1,23 @@
+id = "night-owl-black"
 name = "Night Owl Black Theme"
 version = "0.1.0"
-authors = ["Ihor"]
-description = "A Zed port of the Night Owl Black VS Code theme."
-id = "night-owl-black"
 schema_version = 1
+description = "A deep black Zed theme inspired by Night Owl Black for VS Code."
+repository = "https://github.com/IhorPeresunko/night-owl-black-zed-theme"
+authors = ["Ihor Peresunko <ihor.codes@gmail.com>"]
+themes = ["themes/NightOwlBlack.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
